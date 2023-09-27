@@ -1,0 +1,1 @@
+function openMenu(){var e=document.getElementsByClassName("mobile-burger")[0].parentElement.parentElement;e.classList.contains("open")?e.classList.remove("open"):e.classList.add("open")}
